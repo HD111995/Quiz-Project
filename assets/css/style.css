@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+html {
+  scroll-behavior: smooth;
+}
+body {
+  overflow-y: hidden;
+}
+article {
+  text-align: center;
+  height: 80vh;
+  padding: 10vh;
+}
+img {
+  height: 60vh;
+  width: 50vw;
+}
+h3 {
+  margin: 3.5vh 0;
+  font-size: 30px;
+}
+button {
+  padding: 10px 30px;
+  margin: 0 20px;
+  font-size: 20px;
+  background-color: #000;
+  color: #fff;
+}
